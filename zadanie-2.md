@@ -6,7 +6,7 @@ Szybkość uruchamiania – kontenery startują znacznie szybciej niż tradycyjn
 Łatwość wersjonowania i powtarzalność – obrazy Docker umożliwiają łatwe wersjonowanie środowisk oraz szybkie odtwarzanie identycznych konfiguracji na różnych etapach cyklu życia aplikacji.
 Skalowalność – Docker ułatwia skalowanie aplikacji poprzez szybkie uruchamianie wielu instancji kontenerów oraz integrację z narzędziami do orkiestracji, takimi jak Kubernetes.
 
-(Auto - Claude 4.0)
+(Auto - Claude 4-sonnet)
 Pięć głównych korzyści z używania kontenerów Docker w środowisku programistycznym to:
 Spójność środowisk - Docker zapewnia identyczne środowisko uruchomieniowe na wszystkich etapach rozwoju (development, testy, produkcja), eliminując problem "u mnie działa".
 Szybka konfiguracja - nowi członkowie zespołu mogą błyskawicznie skonfigurować swoje środowisko deweloperskie poprzez uruchomienie jednego kontenera, zamiast ręcznie instalować wszystkie zależności.
